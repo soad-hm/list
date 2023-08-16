@@ -1,0 +1,26 @@
+#todoList label{
+  width: 80%;
+}
+#todoList li{
+  list-style-type: none;
+}
+
+.uncompleted label{
+  color: #afa7a7;
+  text-decoration: line-through;
+}
+#todoList .btn{
+  margin-left: 10px;
+}
+.email{
+  margin-left: 0px;
+  margin-top: 400px;
+  display:flex;
+  justify-content:center;
+  margin-bottom: 50px;
+  /* transition: width 2s, height 2s, transform 2s;
+ */
+}
+/* .container{
+  background-image:url('atwork.jpg');
+} */
